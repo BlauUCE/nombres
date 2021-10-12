@@ -11,7 +11,12 @@
 			"BYRON_IDROVO":"Byron Idrovo",
 			"MNU_BIC_CREAPRO":"Crear Producto",
 			"MNU_BIC_LISTPRO":"Listar Productos",
-			"MNU_BIC_BUSCLI":"Buscar Cliente"
+			"MNU_BIC_BUSCLI":"Buscar Cliente",
+			"MNU_DARWIN_CUMBAJIN":"EVALUACION PRODUCTO DARWIN",
+			"MNU_DSCN_CREAR":"CREAR",
+			"MNU_DSCN_PRODUCTO":"PRODUCTO",
+			"MNU_DSCN_CONSULTA":"CONSULTAR",
+			"MNU_DSCN_CLIENTE":"CLIENTE"
         }
     }
 }
